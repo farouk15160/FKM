@@ -1,0 +1,2 @@
+jupyter nbconvert --to pdf --no-input kräfte.ipynb
+https://www.ingenieurkurse.de/maschinenelemente-1/verbindungen-und-verbindungselemente/formschluessige-welle-nabe-verbindungen/pass-und-gleitfedern/festigkeitsberechnung-einer-passfederverbindung.html
